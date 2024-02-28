@@ -1,0 +1,46 @@
+.main{
+    background-color: #ffffff;
+    background-image: url(/welcom.jpg);
+    padding-top: 200px;
+    padding-bottom: 80px;
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: relative;
+    padding: 65px 0;
+    overflow: hidden;
+}
+.fon{
+    opacity: 0.62;
+    background: linear-gradient(to bottom,#000000 0%,#000000 100%);
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    left: 0;
+    top: 0;
+}
+.block{
+    margin: 0 auto;
+    width: 1170px;
+    height: 420px;
+    color: #ffffff;
+    position: relative;
+    align-items: center;
+    display: flex;
+}
+
+.block_title{
+    width: 75%;
+    margin-top: 100px;
+}
+.span{
+    font-size: 50px;
+    font-weight: 900;
+    font-family: Russo One, sans-serif;
+    
+    line-height: 100%;
+}
+.block_text{
+    font-size: 25px;
+    margin-bottom: 30px;
+}

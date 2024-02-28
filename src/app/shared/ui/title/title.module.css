@@ -1,0 +1,14 @@
+.block{
+    text-align: center;
+    color: #424242;
+}
+.title{
+    font-size: 41px;
+    font-weight: 900;
+    margin-bottom: 20px;
+}
+.text{
+    font-size: 20px;
+    transform: scaleY(0.9);
+    font-weight: 300;
+}
